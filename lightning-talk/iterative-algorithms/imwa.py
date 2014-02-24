@@ -85,7 +85,7 @@ if __name__ == '__main__':
 
     # Print out the results. Negative numbers lean Democratic, positive lean Republican
     print 'Candidates'
-    map(lambda d: pprint('%s: %s' % (d['name'], d['cfscore'])), cands)
+    map(lambda c: pprint('%s: %s' % (c['name'], c['cfscore'])), cands)
 
     print 'Donors'
     map(lambda d: pprint('%s: %s' % (d['name'], d['cfscore'])), donors)
