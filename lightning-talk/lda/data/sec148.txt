@@ -1,0 +1,41 @@
+148.Interest Rate Reduction on open end consumer credit plans
+(a)In general
+If a creditor increases the annual percentage rate applicable to a credit card account under an open end consumer credit plan, based on factors including the credit risk of the obligor, market conditions, or other factors, the creditor shall consider changes in such factors in subsequently determining whether to reduce the annual percentage rate for such obligor.
+
+(b)Requirements
+With respect to any credit card account under an open end consumer credit plan, the creditor shall—
+
+(1)maintain reasonable methodologies for assessing the factors described in subsection (a);
+(2)not less frequently than once every 6 months, review accounts as to which the annual percentage rate has been increased since January 1, 2009, to assess whether such factors have changed (including whether any risk has declined);
+(3)reduce the annual percentage rate previously increased when a reduction is indicated by the review; and
+(4)in the event of an increase in the annual percentage rate, provide in the written notice required under section 127(i) a statement of the reasons for the increase.
+(c)Rule of Construction
+This section shall not be construed to require a reduction in any specific amount.
+
+(d)Rulemaking
+The Board shall issue final rules not later than 9 months after the date of enactment of this section to implement the requirements of and evaluate compliance with this section, and subsections (a), (b), and (c) shall become effective 15 months after that date of enactment.
+
+.
+
+(d)Introductory and Promotional Rates
+Chapter 4 of the Truth in Lending Act (15 U.S.C. 1666 et seq.) is amended by inserting after section 171, as amended by this Act, the following:
+
+172.Additional limits on interest rate increases
+(a)Limitation on increases within first year
+Except in the case of an increase described in paragraph (1), (2), (3), or (4) of section 171(b), no increase in any annual percentage rate, fee, or finance charge on any credit card account under an open end consumer credit plan shall be effective before the end of the 1-year period beginning on the date on which the account is opened.
+
+(b)Promotional rate minimum term
+No increase in any annual percentage rate applicable to a credit card account under an open end consumer credit plan that is a promotional rate (as that term is defined by the Board) shall be effective before the end of the 6-month period beginning on the date on which the promotional rate takes effect, subject to such reasonable exceptions as the Board may establish, by rule.
+
+.
+
+(e)Clerical Amendment
+The table of sections for chapter 4 of the Truth in Lending Act is amended by striking the item relating to section 171 and inserting the following:
+
+171. Limits on interest rate, fee, and finance charge increases applicable to outstanding balances.
+
+172. Additional limits on interest rate increases.
+
+173. Applicability of State laws.
+
+.

@@ -1,0 +1,30 @@
+149.Reasonable penalty fees on open end consumer credit plans
+(a)In general
+The amount of any penalty fee or charge that a card issuer may impose with respect to a credit card account under an open end consumer credit plan in connection with any omission with respect to, or violation of, the cardholder agreement, including any late payment fee, over-the-limit fee, or any other penalty fee or charge, shall be reasonable and proportional to such omission or violation.
+
+(b)Rulemaking required
+The Board, in consultation with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the National Credit Union Administration Board, shall issue final rules not later than 9 months after the date of enactment of this section, to establish standards for assessing whether the amount of any penalty fee or charge described under subsection (a) is reasonable and proportional to the omission or violation to which the fee or charge relates. Subsection (a) shall become effective 15 months after the date of enactment of this section.
+
+(c)Considerations
+In issuing rules required by this section, the Board shall consider—
+
+(1)the cost incurred by the creditor from such omission or violation;
+(2)the deterrence of such omission or violation by the cardholder;
+(3)the conduct of the cardholder; and
+(4)such other factors as the Board may deem necessary or appropriate.
+(d)Differentiation permitted
+In issuing rules required by this subsection, the Board may establish different standards for different types of fees and charges, as appropriate.
+
+(e)Safe harbor rule authorized
+The Board, in consultation with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the National Credit Union Administration Board, may issue rules to provide an amount for any penalty fee or charge described under subsection (a) that is presumed to be reasonable and proportional to the omission or violation to which the fee or charge relates.
+
+.
+
+(2)Clerical amendments
+Chapter 3 of the Truth in Lending Act (15 U.S.C. 1661 et seq.) is amended—
+
+(A)in the chapter heading, by inserting and limits on credit card fees after advertising; and
+(B)in the table of sections for the chapter, by adding at the end the following:
+148. Interest rate reduction on open end consumer credit plans.
+
+149. Reasonable penalty fees on open end consumer credit plans.
